@@ -1,13 +1,21 @@
 ### Hi There👋, My name is Aakash Thapa 
 [![Website](https://img.shields.io/website?label=aakashthapa.com.np&style=for-the-badge&url=https%3A%2F%2Faakashthapa.com.np)](https://aakashthapa.com.np)
 
-## I'm a Student and a Developer.
-<img src ="https://media.giphy.com/media/188pTFRu3nHDxbNVhz/giphy.gif" width = "200px" align="right">
-- 👀 I’m interested in Developing
-- 🌱 I’m currently learning Django and C
-- 🧐 I'm currently Working on My own Personal Projects.
-- 📫 How to reach me aakashthapa.com.np
-- 🤯 I Love to Break things 😜
+<div>
+  <img align = "right" src ="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width = "300px" >
+  <p align = "left">
+  <h2>I'm a Student and a Developer </h2>
+  <ul>
+    <li>👀 I’m interested in Developing</li>
+    <li>🌱 I’m currently learning Django and C</li>
+    <li>🧐 I'm currently Working on My own Personal Projects.</li>
+    <li>📫 How to reach me aakashthapa.com.np</li>
+    <li>🤯 I Love to Break things 😜</li>
+  </ul>
+  </p>
+  
+</div>
+
 
 #### Connect With Me:
 <a href="https://github.com/aakashthapa060/"><img width = "30px" alt = "github" src="https://img-premium.flaticon.com/png/512/2111/2111292.png?token=exp=1621676057~hmac=5f0a8c524ffd63bdde6a281a9cf284a7"></a>
@@ -24,4 +32,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aakashthapa060&layout=compact&theme=radical&hide=html)](https://github.com/aakashthapa060/github-readme-stats)	
 
 </div>
-
