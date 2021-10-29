@@ -8,7 +8,7 @@
   <h2>I'm a Student and a Developer </h2>
   <ul>
     <li>👀 I’m interested in Developing</li>
-    <li>🌱 I’m currently learning Django and C</li>
+    <li>🌱 I’m currently learning Node</li>
     <li>🧐 I'm currently Working on My own Personal Projects.</li>
     <li>📫 How to reach me aakashthapa.com.np</li>
     <li>🤯 I Love to Break things 😜</li>
