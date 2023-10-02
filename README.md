@@ -1,5 +1,5 @@
 ### Hi There👋, My name is Aakash Thapa 
-[![Website](https://img.shields.io/website?label=aakashthapa.com.np&style=for-the-badge&url=https%3A%2F%2Faakashthapa.com.np)](https://aakashthapa.com.np)
+[![Website](https://img.shields.io/website?label=aakashthapa.com.np&style=for-the-badge&url=https%3A%2F%2Faakashthapa.com.np)](https://portfolio-aakash.vercel.app/)
 
 
 <div>
@@ -10,7 +10,7 @@
     <li>👀 I’m interested in Developing</li>
     <li>🌱 I’m currently learning Node</li>
     <li>🧐 I'm currently Working on My own Personal Projects.</li>
-    <li>📫 How to reach me aakashthapa.com.np</li>
+    <li>📫 How to reach me https://portfolio-aakash.vercel.app/</li>
     <li>🤯 I Love to Break things 😜</li>
   </ul>
   </p>
